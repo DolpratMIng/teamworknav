@@ -7,3 +7,8 @@ toggleButton.addEventListener("click", (e) => {
 });
 
 console.log("hi");
+console.log("hi");
+console.log("hi");
+console.log("hi");
+console.log("hi");
+console.log("hi");
